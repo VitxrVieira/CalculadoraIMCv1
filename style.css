@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    max-width: 300px;
+    font-size: 25px;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 900;
+    background-color: #ffbc3a;
+    border-radius: 10px;
+}
+
+.container{
+    background-color: #b38b6d;
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+input{
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 2px;
+}
+
+.insira1{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.insira2{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+button{
+    width: 70px;
+    height: 25px;
+    
+    display: block;
+    margin: 0 auto;
+    
+}
+
+
+.resultadojs{
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 900;
+}
